@@ -335,7 +335,7 @@ The project generates visualizations such as:
 ---
 
 
-## ⭐ Acknowledgements
+## Acknowledgements
 
 Special thanks to the internship program, mentors, and open-source community for providing valuable learning resources and datasets that made this project possible.
 
@@ -348,6 +348,7 @@ GitHub: peterokomesi-gif
 LinkedIn: www.linkedin.com/in/peter-okomesi-30b98234
 
 Email: Peterokomesi@gmail.com
+
 License
 
 This project is licensed under the MIT License.
