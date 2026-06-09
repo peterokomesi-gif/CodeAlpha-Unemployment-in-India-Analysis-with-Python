@@ -206,7 +206,7 @@ Your Name: Peter Okomesi
 
 Data Science Intern
 
-GitHub: your-github-profile
+GitHub: peterokomesi-gif
 
 LinkedIn: www.linkedin.com/in/peter-okomesi-30b98234
 
