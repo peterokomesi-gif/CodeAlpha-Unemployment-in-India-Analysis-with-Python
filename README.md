@@ -1,7 +1,5 @@
-# CodeAlpha-Unemployment-in-India-Analysis-with-Python
-Unemployment Analysis with Python examines unemployment trends using data analytics and visualization. The project explores regional and temporal patterns, evaluates COVID-19's impact on employment, identifies seasonal trends, and generates insights to support economic planning and policy-making using Python libraries such as Pandas and Matplotlib.
-Unemployment Analysis with Python
-# Unemployment Analysis with Python
+
+# Unemployment in India Analysis with Python
 
 ## Project Overview
 
